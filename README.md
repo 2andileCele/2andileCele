@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Zandile Cele 👋
 
-<!--
-**2andileCele/2andileCele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### BSc Software Engineering Student | Cloud Computing Enthusiast ☁️
 
-Here are some ideas to get you started:
+I'm a software engineering student based in KwaZulu-Natal, South Africa,
+building my foundations in programming, networking, and cloud technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy cloud computing most — I'm fascinated by how applications scale,
+how infrastructure is automated, and how the cloud powers modern software.
+
+- 🌱 Currently learning: Procedural Programming (C++) & Computer Network Technologies
+- ☁️ Completed: Cloud Computing fundamentals
+- 🎯 Goal: Grow into a Cloud / DevOps Engineer and land an internship
+- 💬 Ask me about: Cloud concepts, C programming, or what I'm learning
+- 📫 How to reach me: Zandilecele331@gmail.com | https://www.linkedin.com/in/zandile-cele-61744b298/?isSelfProfile=true
+- ⚡ Fun fact: I debug best with a cup of rooibos ☕
